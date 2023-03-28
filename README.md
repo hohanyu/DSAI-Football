@@ -2,14 +2,55 @@
 
 ![image](https://user-images.githubusercontent.com/79267462/228144097-3392a070-448f-43d5-a904-4813625a00fa.png)
 
+## About:
+
+This is a mini project for NTU SC1015 (Introduction to Data Science and Artificial Intelligence) where we analyse datasets from kaggle.com and fbref.com
+
+Check out our Project Video and slide deck too.
+
 ## Background Information:
 
-In the 21st century, Football is no longer just a sport. With a viewership of over 1 billion in the latest 2022 Qatar World Cup, it has become evident that the global football scene is just as lucrative as it is entertaining. With everyone trying to get a piece of the pie, investors are not just looking at results. In order to get a high return on investment, football managers are refocusing on spotting diamonds in the rough- developing young players and selling them off for a high price (buy low, sell high)
+Football has evolved from being merely a sport in the 21st century. The latest 2022 Qatar World Cup garnered a viewership of over 1 billion, underscoring the lucrative and entertaining nature of the global football scene. Given the intense competition for a share of the spoils, investors are now seeking more than just favorable match outcomes. 
+
+Therefore, football managers are shifting their focus towards identifying talented young players and nurturing them to maturity before selling them at a premium price to generate a substantial return on investment, following the adage of "buy low, sell high."
 
 ## Problem Statement:
 
-In order for a football scout to have a higher chance of spotting these players, they need to be aware of what traits/ factors these players need to possess to ensure a high future monetary value.
+To increase the likelihood of discovering such players, a football scout must be cognizant of the traits and factors that are integral to a player's potential for commanding a high monetary value in the future.
 
 ## Solution
 
-Predicting football players’ future monetary value based on factors (find the top 3 most important factors for each of the 3 main positions)
+Identifying the future monetary worth of football players by analysing pertinent factors (determine the three most critical factors for each of the three key positions).
+
+## Walkthrough
+
+### 1. Problem
+- 
+
+### 2. Data Collection and Preperation
+- 
+
+### 3. Exploratory Data Analysis / Visualisation
+- 
+
+### 4. Use of Machine Learning
+- 
+
+### 5. Concluding Insights
+- 
+
+## What Did We Learn From This Project?
+- 
+
+## References
+-	2017-2018 football player stats:  
+https://fbref.com/en/comps/Big5/2017-2018/stats/players/2017-2018-Big-5-European-Leagues-Stats 
+- 2021 football players monetary value: 
+https://www.kaggle.com/datasets/sanjeetsinghnaik/most-expensive-footballers-2021 
+
+## Contributors
+- Mu Rong @murong2602
+- Han Yu @hohanyu
+
+
+
