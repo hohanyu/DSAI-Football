@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/79267462/228144097-3392a070-448f-43d5-a904-4813625a00fa.png)
+
 # DSAI-FootballEconomics
 
 ## Background Information:
