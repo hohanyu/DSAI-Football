@@ -11,4 +11,3 @@ In order for a football scout to have a higher chance of spotting these players,
 ## Solution
 
 Predicting football players’ future monetary value based on factors (find the top 3 most important factors for each of the 3 main positions)
-![image](https://user-images.githubusercontent.com/79267462/228142455-6b1375c4-ea8b-4fcc-9455-794b8659b49e.png)
