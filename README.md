@@ -19,11 +19,11 @@ Therefore, football managers are shifting their focus towards identifying talent
 
 ## Problem Statement:
 
-To increase the likelihood of discovering such players, a football scout must be cognizant of the traits and factors that are integral to a player's potential for commanding a high monetary value in the future.
+To increase the likelihood of discovering such players, a football scout must be cognizant of the traits and factors that are integral to a player's potential for an increase in monetary value in the future.
 
 ## Solution
 
-Identifying the future monetary worth of football players by analysing pertinent factors (determine the three most critical factors for each of the three key positions).
+By determining the top 5 factors that correlate with an increase in monetary value of the player
 
 ## Walkthrough
 
@@ -48,6 +48,8 @@ Identifying the future monetary worth of football players by analysing pertinent
 ## References
 -	2017-2018 football player stats:  
 https://fbref.com/en/comps/Big5/2017-2018/stats/players/2017-2018-Big-5-European-Leagues-Stats 
+-	2017-2018 football player stats:  
+https://fbref.com/en/comps/Big5/2018-2019/stats/players/2018-2019-Big-5-European-Leagues-Stats
 - 2021 football players monetary value: 
 https://www.kaggle.com/datasets/sanjeetsinghnaik/most-expensive-footballers-2021 
 
