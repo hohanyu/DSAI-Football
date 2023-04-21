@@ -15,31 +15,28 @@ Check out our Project Video and slide deck too.
 
 Football has evolved from being merely a sport in the 21st century. The latest 2022 Qatar World Cup garnered a viewership of over 1 billion, underscoring the lucrative and entertaining nature of the global football scene. Given the intense competition for a share of the spoils, investors are now seeking more than just favorable match outcomes. 
 
-Therefore, football managers are shifting their focus towards identifying talented young players and nurturing them to maturity before selling them at a premium price to generate a substantial return on investment, following the adage of "buy low, sell high."
+Therefore, football managers are shifting their focus towards identifying talented players and nurturing them before selling them at a premium price to generate a substantial return on investment, following the adage of "buy low, sell high."
 
 ## Problem Statement:
 
-To increase the likelihood of discovering such players, a football scout must be cognizant of the traits and factors that are integral to a player's potential for an increase in monetary value in the future.
+To increase the likelihood of discovering such players, a football scout must be cognizant of the traits and statistics that are integral to a player's potential for an increase in monetary value in the future.
 
 ## Solution
 
-By determining the top 5 factors that correlate with an increase in monetary value of the player
+By determining the top 5 factors that correlate with an increase in monetary value of the player, by position
 
 ## Walkthrough
 
 ### 1. Problem
+- README.md
+
+### 2. Data Preparation & Exploratory Data Analysis
 - 
 
-### 2. Data Collection and Preperation
+### 3. Use of Machine Learning
 - 
 
-### 3. Exploratory Data Analysis / Visualisation
-- 
-
-### 4. Use of Machine Learning
-- 
-
-### 5. Concluding Insights
+### 4. Concluding Insights
 - 
 
 ## What Did We Learn From This Project?
@@ -48,10 +45,10 @@ By determining the top 5 factors that correlate with an increase in monetary val
 ## References
 -	2017-2018 football player stats:  
 https://fbref.com/en/comps/Big5/2017-2018/stats/players/2017-2018-Big-5-European-Leagues-Stats 
--	2017-2018 football player stats:  
+-	2018-2019 football player stats:  
 https://fbref.com/en/comps/Big5/2018-2019/stats/players/2018-2019-Big-5-European-Leagues-Stats
-- 2021 football players monetary value: 
-https://www.kaggle.com/datasets/sanjeetsinghnaik/most-expensive-footballers-2021 
+- Football Data from Transfermarkt
+https://www.kaggle.com/datasets/davidcariboo/player-scores
 
 ## Contributors
 - Mu Rong @murong2602
