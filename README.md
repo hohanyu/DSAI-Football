@@ -30,7 +30,10 @@ By determining the top 5 factors that correlate with an increase in monetary val
 ### 1. Problem
 - README.md
 
-### 2. Data Preparation & Exploratory Data Analysis
+### 2. Data Preparation 
+- 
+
+### 3. Exploratory Data Analysis
 - 
 
 ### 3. Use of Machine Learning
