@@ -6,7 +6,7 @@
 
 This is a mini project for NTU SC1015 (Introduction to Data Science and Artificial Intelligence) where we analyse datasets from kaggle.com and fbref.com
 
-Check out our Project Video and slide deck too.
+Check out our [Project Video](https://youtu.be/F9dbbBpRK7U) and [slide deck](DSAI-FootballEconomics/DSAI Presentation.pptx) too.
 
 ## Background Information:
 
