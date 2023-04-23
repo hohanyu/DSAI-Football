@@ -28,7 +28,7 @@ By determining the top 5 factors that correlate with an increase in monetary val
 ## Walkthrough
 
 ### 1. Problem
-- README.md
+- [README.md](DSAI-FootballEconomics/README.md)
 
 ### 2. Data Preparation 
 - 
