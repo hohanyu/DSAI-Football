@@ -39,6 +39,12 @@ By determining the top 5 factors that correlate with an increase in monetary val
 ### 4. Use of Machine Learning & Concluding Insights
 - [ML.ipynb](DSAI-FootballEconomics/ML.ipynb)
 
+## Models Used
+- Decision Tree Classifier
+- Random Forest Classifier
+- Keras Neural Classifier
+- Support Vector Machine
+
 ## What Did We Learn From This Project?
 This project provided us with valuable insights into the practical application of Data Science in solving real-world issues, such as the economics of football. As sports enthusiasts, we relished the opportunity to work on a project that piqued our interest. One of the most impactful outcomes of this project was the ability to predict whether there will be a rise in a player's value, which has significant implications for the industry. Moreover, we gained a new perspective by applying GridSearchCV and learning beyond the classroom setting.
 
@@ -53,5 +59,5 @@ https://fbref.com/en/comps/Big5/2018-2019/stats/players/2018-2019-Big-5-European
 https://www.kaggle.com/datasets/davidcariboo/player-scores
 
 ## Contributors
-- Ng Mu Rong @murong2602
-- Ho Han Yu @hohanyu
+- Ho Han Yu (@hohanyu) - Data Cleaning & Exploratory Data Analysis
+- Ng Mu Rong (@murong2602) - Use of Machine Learning & Model Comparison
