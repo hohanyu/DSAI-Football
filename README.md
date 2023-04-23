@@ -6,7 +6,7 @@
 
 This is a mini project for NTU SC1015 (Introduction to Data Science and Artificial Intelligence) where we analyse datasets from kaggle.com and fbref.com
 
-Check out our [Project Video](https://youtu.be/F9dbbBpRK7U) and [slide deck](DSAI-FootballEconomics/DSAIPresentation.pptx) too.
+Check out our [Project Video](https://youtu.be/F9dbbBpRK7U) and [Slide Deck](DSAI-FootballEconomics/DSAIPresentation.pptx) too.
 
 ## Background Information:
 
@@ -53,5 +53,5 @@ https://fbref.com/en/comps/Big5/2018-2019/stats/players/2018-2019-Big-5-European
 https://www.kaggle.com/datasets/davidcariboo/player-scores
 
 ## Contributors
-- Mu Rong @murong2602
-- Han Yu @hohanyu
+- Ng Mu Rong @murong2602
+- Ho Han Yu @hohanyu
