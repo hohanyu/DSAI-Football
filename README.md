@@ -31,19 +31,18 @@ By determining the top 5 factors that correlate with an increase in monetary val
 - [README.md](DSAI-FootballEconomics/README.md)
 
 ### 2. Data Preparation 
-- 
+- [cleanData.ipynb](DSAI-FootballEconomics/cleanData.ipynb)
 
 ### 3. Exploratory Data Analysis
-- 
+- [EDA.ipynb](DSAI-FootballEconomics/EDA.ipynb)
 
-### 3. Use of Machine Learning
-- 
-
-### 4. Concluding Insights
-- 
+### 4. Use of Machine Learning & Concluding Insights
+- [ML.ipynb](DSAI-FootballEconomics/ML.ipynb)
 
 ## What Did We Learn From This Project?
-- 
+This project provided us with valuable insights into the practical application of Data Science in solving real-world issues, such as the economics of football. As sports enthusiasts, we relished the opportunity to work on a project that piqued our interest. One of the most impactful outcomes of this project was the ability to predict whether there will be a rise in a player's value, which has significant implications for the industry. Moreover, we gained a new perspective by applying GridSearchCV and learning beyond the classroom setting.
+
+Overall, this was an engaging and fulfilling project that allowed us to apply the knowledge gained in the classroom to a real-world context, and we thoroughly enjoyed working on it.
 
 ## References
 -	2017-2018 football player stats:  
